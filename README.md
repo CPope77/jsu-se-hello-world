@@ -30,3 +30,5 @@ executable by saying
 
 before running it the first time.
 
+This is for Connor Pope's first assignment.
+
